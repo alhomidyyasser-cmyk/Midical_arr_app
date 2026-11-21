@@ -1,7 +1,4 @@
-# مسار العينات - مرجع الحزم
-# المشروع مبني بـ Node.js / TypeScript، والتثبيت الرسمي يتم عبر: npm install
-# package.json و package-lock.json هما المصدر المعتمد للإصدارات
-# القيم أدناه للتوثيق فقط وتعكس الحد الأدنى للإصدارات
+
 
 # Runtime dependencies
 @google/genai==2.4.0

@@ -422,14 +422,3 @@ curl -X POST http://localhost:3000/api/reset-demo
 
 ---
 
-## 19. ملاحظات قبل الرفع على GitHub
-
-- لا توجد مستودع Git مهيّأ في المجلد حالياً؛ الرفع متروك لك بالكامل.
-- `.gitignore` يستبعد `node_modules/`، و`dist/`، و`data/db.json`، وملفات `.env`، والسجلات، وملفات النظام.
-- `requirements.txt` مرفق كمرجع للحزم لأن المشروع Node/TypeScript؛ المصدر المعتمد للتثبيت هو `package.json` و`package-lock.json` عبر `npm install`.
-- تأكد من عدم وجود مفاتيح API داخل الكود أو ملفات البيانات قبل الرفع.
-- بعد الاستنساخ: `npm install` ثم `npm run dev` — لا حاجة لنسخ `data/db.json`.
-
----
-
-**مسار العينات** — توصيل موثوق، مطابقة ذكية، وقرارات مالية واضحة.
