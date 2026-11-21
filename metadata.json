@@ -1,0 +1,6 @@
+{
+  "name": "مسار العينات — إدارة التوصيل والمطابقة المالية",
+  "description": "منظومة متكاملة لتوصيل طلبات وعينات المختبرات الطبية، توثيق السندات، المطابقة الذكية مع تقارير المختبر، وحساب التارجت العادل والعمولات التصاعدية.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
